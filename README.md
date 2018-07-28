@@ -2,4 +2,4 @@
 
 Android Application.
 
-we recommended using android studio to run the application.
+To run, download and use Android Studio.
